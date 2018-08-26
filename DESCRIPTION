@@ -1,0 +1,15 @@
+Type: Package
+Package: TalkNiesr3
+Title: Demonstration
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given = "Shinya", family = "Uryu", email = "suika1127@gmail.com", role  = c("aut", "cre"), comment = c(ORCID = "0000-0002-0493-6186"))
+    )
+Maintainer: Shinya Uryu <suika1127@gmail.com>
+Description: demonstration
+License: MIT + file LICENSE
+LazyData: true
+Encoding: UTF-8
+Suggests: 
+    testthat
+RoxygenNote: 6.1.0

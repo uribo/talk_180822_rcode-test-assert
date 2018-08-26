@@ -1,0 +1,10 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^.\.local$
+^.\.rstudio$
+^Dockerfile$
+^docker-compose\.yml$
+^install.R$
+^inst\$
+^kitematic\$
+^src\$
