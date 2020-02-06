@@ -1,8 +1,9 @@
 my_iris <-
   iris
 
+# source(here::here("src/01-my_iris.R"))
 # my_iris <-
-#   read.csv(here::here("data", "my_iris.csv"))
+#   read.csv(here::here("data/my_iris.csv"))
 
 test_that("Iris data statement", {
   expect_equal(

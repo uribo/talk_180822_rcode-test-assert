@@ -1,1 +1,2 @@
-install.packages(c("assertr", "here", "vdiffr"))
+install.packages(c("here", "vdiffr"))
+remotes::install_github("ropensci/assertr")

@@ -1,3 +1,4 @@
+# ref) tests/testthat/test-02vdiffr.R
 library(ggplot2)
 plot_iris_scatter <- 
   ggplot(iris, aes(Sepal.Length, Petal.Width)) +

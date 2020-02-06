@@ -26,6 +26,7 @@ Click build start at binder!
 - http://testthat.r-lib.org
 - https://github.com/ropensci/assertr
 - https://github.com/lionel-/vdiffr
+- [Rでアサートする系のパッケージ：ensurer, assertthat, assertr](https://notchained.hatenablog.com/entry/2015/03/22/140656)
 - [アサートを使って堅牢なデータ設計をしよう](https://uribo.hatenablog.com/entry/2016/03/19/110000)
 - [RStudio と vdiffr でプロットもテストしよう](https://qiita.com/kozo2/items/62193e74ab2239e3a1be)
 
